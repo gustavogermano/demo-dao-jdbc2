@@ -1,0 +1,1 @@
+A simple project about making connection with MySQL and JDBC, using Layered Architecture with DAO Pattern, representing a problem of relationship of sellers and departments, with function that represents CRUD and some function that get information from the database.
